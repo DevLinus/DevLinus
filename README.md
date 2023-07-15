@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **Golang and Kubernetes**
+- 🌱 I’m currently learning **Typescript and AWS**
 
 - 💬 Ask me about **Delphi, C# 
 **
