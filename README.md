@@ -7,8 +7,7 @@
 
 - 🌱 I’m currently learning **Typescript and AWS**
 
-- 💬 Ask me about **Delphi, C# 
-**
+- 💬 Ask me about **Delphi, C#**
 
 <p align="left">
 </p>
